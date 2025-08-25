@@ -1,3 +1,13 @@
+<!-- Profile Photo -->
+<p align="center">
+  <img src="https://github.com/Hashir-Farooqi.png" width="150" />
+</p>
+
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Hashir+Ali+Farooqi!;Cybersecurity+Enthusiast+🔐;Aspiring+Ethical+Hacker+💻;Always+Learning+New+Skills+🚀" />
+</h1>
+
 <!-- Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Hashir+Ali+Farooqi!;Cybersecurity+Enthusiast+🔐;Aspiring+Ethical+Hacker+💻;Always+Learning+New+Skills+🚀" />
