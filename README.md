@@ -55,7 +55,7 @@
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://github.com/Hashir-Farooqi"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@CyberFactsYT"><img src="https://img.shields.io/badge/YouTube-CyberFacts-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@Cyber-Facts01"><img src="https://img.shields.io/badge/YouTube-CyberFacts-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hashir-ali-farooqi-178318378"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:farooqihashirali@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
