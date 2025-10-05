@@ -42,7 +42,15 @@
 </p>
 
 ---
+---
 
+<!-- Certifications -->
+### 🧾 Certifications
+**Foundations of Cybersecurity**  
+*Issued by Google via Coursera – October 2025*  
+[🔗 View Certificate](https://coursera.org/share/8ba092924d4aed9b1181e39007e95bd9)
+
+---
 <!-- Snake Animation -->
 ### 🐍 Watch my contributions turn into a snake
 <p align="center">
